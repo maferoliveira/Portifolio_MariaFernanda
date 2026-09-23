@@ -48,8 +48,8 @@ Além da área de tecnologia, tenho interesse em outras áreas profissionais e c
 
 ## Contato
 
-- GitHub: https://github.com/SEU-USUARIO
-- Email: SEU-EMAIL
+- GitHub: https://github.com/maferoliveira
+- Email: maria20090320@gmail.com
 
 ## Status
 
