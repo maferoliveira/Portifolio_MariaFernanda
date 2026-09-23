@@ -8,7 +8,7 @@ O projeto apresenta minha trajetória na área de tecnologia, minhas habilidades
 
 Este portfólio foi criado inicialmente durante o curso técnico e vem sendo atualizado conforme adquiro novos conhecimentos e desenvolvo novos projetos.
 
-Atualmente, estou no 3º semestre de Análise e Desenvolvimento de Sistemas, estudando desenvolvimento web, programação, banco de dados, backend e outras áreas da tecnologia.
+Atualmente, estou no 4º semestre de Análise e Desenvolvimento de Sistemas, estudando desenvolvimento web, programação, banco de dados, backend e outras áreas da tecnologia.
 
 ## Tecnologias
 
